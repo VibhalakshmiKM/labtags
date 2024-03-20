@@ -1,1 +1,1 @@
-# labtags
+#include<stdio.h>
